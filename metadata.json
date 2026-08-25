@@ -1,0 +1,6 @@
+{
+  "name": "NexusCRM Enterprise Platform",
+  "description": "Comprehensive full-stack CRM platform with role-based permissions, interactive Kanban pipeline, revenue forecasting, activity timeline, email composer, AI sales copilot, audit logs, and automated tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
